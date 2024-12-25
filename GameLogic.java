@@ -607,9 +607,7 @@ public class GameLogic implements PlayableLogic {
         ConcretePiece p;
 
 
-        // player one setting
-//        this.p1 = new ConcretePlayer(false);
-//        this.p2 = new ConcretePlayer(true);
+  
 
         // setting pieces locations and id, and adding to appropriate ArrayLists
         for (int i = 3; i < 8; i++) {
